@@ -2,50 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="842d963f-55de-4ad5-9093-f55a4127e2bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/config/AppConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/config/AppConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/config/AppInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/model/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/error.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../bai_1_tong_quan_spring_mvc/bai_tap/tu_dien_don_gian/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_1_tong_quan_spring_mvc/bai_tap/tu_dien_don_gian/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../bai_2_spring_controller/bai_tap/hien_thi_gia_vi_voi_sandwich/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_2_spring_controller/bai_tap/hien_thi_gia_vi_voi_sandwich/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form_va_databinding/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form_va_databinding/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form_va_databinding/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form_va_databinding/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form_va_databinding/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form_va_databinding/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form_va_databinding/build/classes/java/main/codegym/config/AppConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form_va_databinding/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form_va_databinding/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form_va_databinding/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form_va_databinding/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form_va_databinding/src/main/java/codegym/config/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form_va_databinding/src/main/java/codegym/config/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form_va_databinding/src/main/java/codegym/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form_va_databinding/src/main/java/codegym/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form_va_databinding/src/main/webapp/WEB-INF/views/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form_va_databinding/src/main/webapp/WEB-INF/views/info.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../bai_2_spring_controller/bai_tap/hien_thi_gia_vi_voi_sandwich/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_2_spring_controller/bai_tap/hien_thi_gia_vi_voi_sandwich/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../bai_2_spring_controller/bai_tap/may_tinh_ca_nhan/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_2_spring_controller/bai_tap/may_tinh_ca_nhan/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../bai_2_spring_controller/thuc_hanh/xem_gio_hien_tai_cua_cac_thanh_pho_tren_the_gioi/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_2_spring_controller/thuc_hanh/xem_gio_hien_tai_cua_cac_thanh_pho_tren_the_gioi/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../bai_2_spring_controller/thuc_hanh/xem_gio_hien_tai_cua_cac_thanh_pho_tren_the_gioi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_2_spring_controller/thuc_hanh/xem_gio_hien_tai_cua_cac_thanh_pho_tren_the_gioi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codegym/config/AppConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codegym/config/AppConfiguration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +163,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637068254490</updated>
-      <workItem from="1637068258508" duration="10248000" />
+      <workItem from="1637068258508" duration="13371000" />
     </task>
     <servers />
   </component>
@@ -210,6 +186,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="0" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1637147545203" />
+    <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1637245376426">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1637245376426" />
     <state width="797" height="34" key="GridCell.Tab.0.bottom" timestamp="1637165923576">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -258,5 +238,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="797" height="34" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1637165923576" />
+    <state x="65" y="0" key="new project wizard" timestamp="1637245377775">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1637245377775" />
   </component>
 </project>

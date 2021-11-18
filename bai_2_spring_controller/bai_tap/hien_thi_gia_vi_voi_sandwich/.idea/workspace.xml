@@ -2,50 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d220fc0-7be5-4195-b022-91686057bee9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.gradle/6.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.gradle/6.1/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.gradle/6.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.gradle/6.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.gradle/6.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/build/classes/java/main/codegym/config/AppConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/build/tmp/war/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/src/main/java/codegym/config/AppConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/src/main/java/codegym/config/AppInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/src/main/java/codegym/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/src/main/java/codegym/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/src/main/java/codegym/model/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/src/main/java/codegym/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/src/main/webapp/WEB-INF/views/error.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/src/main/webapp/WEB-INF/views/user.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../bai_1_tong_quan_spring_mvc/bai_tap/tu_dien_don_gian/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_1_tong_quan_spring_mvc/bai_tap/tu_dien_don_gian/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../may_tinh_ca_nhan/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../may_tinh_ca_nhan/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../thuc_hanh/xem_gio_hien_tai_cua_cac_thanh_pho_tren_the_gioi/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../thuc_hanh/xem_gio_hien_tai_cua_cac_thanh_pho_tren_the_gioi/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../thuc_hanh/xem_gio_hien_tai_cua_cac_thanh_pho_tren_the_gioi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../thuc_hanh/xem_gio_hien_tai_cua_cac_thanh_pho_tren_the_gioi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/src/main/java/codegym/config/AppConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_4_form_databinding/thuc_hanh/ung_dung_login/src/main/java/codegym/config/AppConfiguration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
