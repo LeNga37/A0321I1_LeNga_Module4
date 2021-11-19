@@ -9,20 +9,20 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 @Controller
-@RequestMapping("employee/")
+@RequestMapping("/employee")
 public class EmployeeController {
     @RequestMapping(value = "showForm", method = RequestMethod.GET)
     public String showForm(ModelMap modelMap){
         modelMap.addAttribute("employee",new Employee());
-        return "employee/create";
+        return "create";
     }
 
-    @RequestMapping(value = "/addEmployee", method = RequestMethod.POST)
+    @RequestMapping(value = "addEmployee", method = RequestMethod.POST)
     public String submit(@ModelAttribute("employee") Employee employee, BindingResult result, ModelMap modelMap){
         modelMap.addAttribute("name",employee.getName());
         modelMap.addAttribute("contactNumber",employee.getContactNumber());
         modelMap.addAttribute("id",employee.getId());
-        return "employee/info";
+        return "info";
     }
 
 }

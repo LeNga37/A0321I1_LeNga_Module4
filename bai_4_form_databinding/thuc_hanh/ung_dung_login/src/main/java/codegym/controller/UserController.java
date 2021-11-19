@@ -3,11 +3,13 @@ package codegym.controller;
 import codegym.dao.UserDao;
 import codegym.model.Login;
 import codegym.model.User;
+import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.servlet.ModelAndView;
 
+@Controller
 public class UserController {
     @GetMapping("/home")
     public ModelAndView home(){
