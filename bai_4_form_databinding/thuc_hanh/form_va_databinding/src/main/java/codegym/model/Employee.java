@@ -2,9 +2,7 @@ package codegym.model;
 
 public class Employee {
     private String id;
-
     private String name;
-
     private String contactNumber;
 
     public Employee() {
