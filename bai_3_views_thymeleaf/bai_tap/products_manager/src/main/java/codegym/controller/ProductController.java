@@ -49,7 +49,7 @@ public class ProductController {
     }
 
     @GetMapping("/product/{productId}/delete")
-    public String delete(@PathVariable int  productId, Model model){
+    public String delete(@PathVariable int productId, Model model){
         model.addAttribute("product",productService.findById(productId));
         return "/delete";
     }
