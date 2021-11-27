@@ -2,45 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="842d963f-55de-4ad5-9093-f55a4127e2bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/.gradle/6.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/.gradle/6.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/build/classes/java/main/codegym/config/AppConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/build/classes/java/main/codegym/config/AppInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/build/classes/java/main/codegym/controller/EmailController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/build/classes/java/main/codegym/model/Email.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/build/libs/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu-1.0-SNAPSHOT.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/build/tmp/war/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/src/main/java/codegym/config/AppConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/src/main/java/codegym/config/AppInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/src/main/java/codegym/controller/EmailController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/src/main/java/codegym/model/Email.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/src/main/webapp/WEB-INF/views/info.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/src/main/webapp/WEB-INF/views/update.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/6.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/6.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/6.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/6.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/build/classes/java/main/codegym/config/AppInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/build/classes/java/main/codegym/config/ApplicationConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/build/classes/java/main/codegym/controller/CustomerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/build/classes/java/main/codegym/model/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/build/classes/java/main/codegym/repository/CustomerRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/build/classes/java/main/codegym/repository/CustomerRepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/build/classes/java/main/codegym/service/CustomerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/build/classes/java/main/codegym/service/CustomerServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/build/libs/customers_manager-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/src/main/java/codegym/config/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/src/main/java/codegym/config/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/src/main/java/codegym/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/src/main/java/codegym/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/src/main/java/codegym/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/src/main/java/codegym/repository/CustomerRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/src/main/java/codegym/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/src/main/java/codegym/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/src/main/webapp/views/thymeleaf/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/src/main/webapp/views/thymeleaf/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_3_views_thymeleaf/bai_tap/products_manager/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_3_views_thymeleaf/bai_tap/products_manager/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_3_views_thymeleaf/bai_tap/products_manager/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_3_views_thymeleaf/bai_tap/products_manager/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_3_views_thymeleaf/bai_tap/products_manager/src/main/java/codegym/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_3_views_thymeleaf/bai_tap/products_manager/src/main/java/codegym/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_3_views_thymeleaf/thuc_hanh/customer_manager/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_3_views_thymeleaf/thuc_hanh/customer_manager/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_3_views_thymeleaf/thuc_hanh/customer_manager/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_3_views_thymeleaf/thuc_hanh/customer_manager/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_3_views_thymeleaf/thuc_hanh/customer_manager/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_3_views_thymeleaf/thuc_hanh/customer_manager/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_tap/chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../form_va_databinding/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../form_va_databinding/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../form_va_databinding/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../form_va_databinding/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../form_va_databinding/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../form_va_databinding/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../form_va_databinding/src/main/java/codegym/model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../form_va_databinding/src/main/java/codegym/model/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +103,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -183,6 +201,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637068254490</updated>
       <workItem from="1637068258508" duration="16821000" />
+      <workItem from="1637984296405" duration="3000" />
     </task>
     <servers />
   </component>
