@@ -41,6 +41,30 @@ public class CustomerController {
         return modelAndView;
     }
 
+    @GetMapping("/edit-customer/{id}")
+    public ModelAndView showEditForm(@PathVariable Long id) {
+        Customer customer = customerService.findById(id);
+        if (customer != null) {
+            ModelAndView modelAndView = new ModelAndView("edit");
+            modelAndView.addObject("customer", customer);
+            return modelAndView;
+
+        } else {
+            ModelAndView modelAndView = new ModelAndView("/error.404");
+            return modelAndView;
+        }
+    }
+
+    @PostMapping("/edit-customer")
+    public ModelAndView updateCustomer(@ModelAttribute("customer") Customer customer){
+        customerService.save(customer);
+        ModelAndView modelAndView = new ModelAndView("edit");
+        modelAndView.addObject("customer", customer);
+        modelAndView.addObject("message", "Customer updated successfully");
+        return modelAndView;
+    }
+
+
     @GetMapping("/delete-customer/{id}")
     public ModelAndView showDeleteForm(@PathVariable Long id){
         Customer customer = customerService.findById(id);

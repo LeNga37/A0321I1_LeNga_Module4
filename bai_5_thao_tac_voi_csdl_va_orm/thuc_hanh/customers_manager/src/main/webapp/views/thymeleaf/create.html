@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html xmlns:th="http://www.thymeleaf.org">
-<head th:replace="/layout :: head"></head><head>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
     <title>Customer</title>
 </head>
 <body>
@@ -10,8 +11,11 @@
         Back to customer list
     </a>
 </p>
+<th:block th:if="${message}">
+    <p th:text="${message}"></p>
+</th:block>
 <div id="form">
-    <form action="#" th:action="@{/customer/save}" th:object="${customer}" method="POST" novalidate="novalidate">
+    <form th:action="@{/customer/create}" th:object="${customer}" method="POST">
         <input type="hidden" th:field="*{id}"/>
         <div>
             <label>Name</label>
@@ -28,6 +32,5 @@
         <input type="submit" value="Save"/>
     </form>
 </div>
-<footer th:replace="/layout :: footer"></footer>
 </body>
 </html>

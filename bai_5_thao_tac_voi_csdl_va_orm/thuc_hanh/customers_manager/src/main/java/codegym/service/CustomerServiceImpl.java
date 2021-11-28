@@ -7,10 +7,11 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-@Service
+//@Service
 public class CustomerServiceImpl implements CustomerService{
     @Autowired
     CustomerRepository customerRepository;
+
     @Override
     public Customer getCustomerById(int id) {
         return customerRepository.getCustomerById(id);

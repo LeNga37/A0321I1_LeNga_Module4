@@ -1,16 +1,18 @@
 package codegym.repository;
 
 import codegym.model.Customer;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Repository;
 
 import javax.persistence.EntityManager;
+import javax.persistence.PersistenceContext;
+import javax.transaction.Transactional;
 import java.util.List;
 
-@Repository
+@Transactional
 public class CustomerRepositoryImpl implements CustomerRepository{
-    @Autowired
-    EntityManager entityManager;
+
+    @PersistenceContext
+    private EntityManager entityManager;
+
     @Override
     public Customer getCustomerById(int id) {
         return entityManager.find(Customer.class,id);

@@ -11,7 +11,7 @@ import javax.transaction.Transactional;
 import java.util.List;
 
 @Transactional
-@Repository
+//@Repository
 public class CustomerRepositoryImpl implements CustomerRepository{
     @PersistenceContext
     private EntityManager em;
@@ -41,15 +41,6 @@ public class CustomerRepositoryImpl implements CustomerRepository{
             em.persist(model);
         }
     }
-
-//    @Override
-//    public void save(Customer customer) {
-//        if(customer.getId() != null){
-//            em.merge(customer);
-//        } else {
-//            em.persist(customer);
-//        }
-//    }
 
     @Override
     public void remove(Long id) {
