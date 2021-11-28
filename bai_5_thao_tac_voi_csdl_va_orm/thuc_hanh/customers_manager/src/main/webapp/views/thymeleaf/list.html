@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html xmlns:th="http://www.thymeleaf.org">
-<head th:replace="/layout :: head">
-    <!--    <meta charset="UTF-8">-->
-    <!--    <title>Title</title>-->
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+        <meta charset="UTF-8">
+        <title>Customer List</title>
 </head>
 <body>
 <h3>Customer</h3>
@@ -16,22 +16,21 @@
 <!--        <span th:text="${success}"></span>-->
 <!--    </div>-->
 <!--</div>-->
-<table id = "customers">
-    <thead>
+<table border="1">
     <tr>
         <th>Name</th>
         <th>Email</th>
         <th>Address</th>
     </tr>
-    </thead>
     <tbody>
-    <tr th:each="row,rowStat : ${customers}">
-        <td th:text="${row.name}"></td>
-        <td th:text="${row.email}"></td>
-        <td th:text="${row.address}"></td>
-    </tr>
-    </tbody>
+    <th:block th:each="row,rowStat : ${customers}">
+        <tr>
+            <td th:text="${row.name}"></td>
+            <td th:text="${row.email}"></td>
+            <td th:text="${row.address}"></td>
+        </tr>
+    </th:block>
 </table>
-<footer th:replace="/layout :: footer"></footer>
+<!--<footer th:replace="/layout :: footer"></footer>-->
 </body>
 </html>

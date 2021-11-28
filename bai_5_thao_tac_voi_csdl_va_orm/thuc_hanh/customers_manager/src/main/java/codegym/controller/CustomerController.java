@@ -18,15 +18,14 @@ public class CustomerController {
 
     @GetMapping("create")
     public String displayCreate(Model model){
-        System.out.println(1);
         model.addAttribute("customer",new Customer());
-        System.out.println(2);
         return "create";
     }
 
     @PostMapping("create")
-    public String create(@ModelAttribute("customer") Customer cus,Model model){
+    public String create(@ModelAttribute("customers") Customer cus,Model model){
         customerService.save(cus);
+        System.out.println(1);
         return "redirect:list";
     }
 
