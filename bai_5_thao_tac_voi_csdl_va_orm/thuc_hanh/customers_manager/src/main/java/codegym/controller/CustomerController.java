@@ -25,7 +25,6 @@ public class CustomerController {
     @PostMapping("create")
     public String create(@ModelAttribute("customers") Customer cus,Model model){
         customerService.save(cus);
-        System.out.println(1);
         return "redirect:list";
     }
 
