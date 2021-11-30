@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="909fd1bd-e45c-49e1-bba9-50cc9dceb9b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/config/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/config/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/controller/ProvinceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/formatter/ProvinceFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/model/Province.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/repository/ProvinceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/service/ProvinceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/service/ProvinceServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/customer/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/customer/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/customer/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/customer/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/province/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/province/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/province/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/province/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_6_jpa/bai_tap/ung_dung_blog/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_6_jpa/bai_tap/ung_dung_blog/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_6_jpa/bai_tap/ung_dung_blog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_6_jpa/bai_tap/ung_dung_blog/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_6_jpa/thuc_hanh/customer_manager/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_6_jpa/thuc_hanh/customer_manager/.idea/gradle.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="21dxPQecRJDA6ognQuBs3BiHXul" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/views/customer" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="codegym.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\A0321I1_LeNga_Module4\bai_7_spring_data_repository\thuc_hanh\quan_ly_khach_hang_quan_ly_tinh\src\main\webapp\views\customer" />
+      <recent name="D:\A0321I1_LeNga_Module4\bai_7_spring_data_repository\thuc_hanh\quan_ly_khach_hang_quan_ly_tinh\src\main\java\codegym\service" />
+      <recent name="D:\A0321I1_LeNga_Module4\bai_7_spring_data_repository\thuc_hanh\quan_ly_khach_hang_quan_ly_tinh\src\main\java\codegym\config" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="909fd1bd-e45c-49e1-bba9-50cc9dceb9b0" name="Default Changelist" comment="" />
+      <created>1638284741005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638284741005</updated>
+      <workItem from="1638284744648" duration="4932000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="781" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1638287062815">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="781" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1638287062815" />
+  </component>
+</project>
