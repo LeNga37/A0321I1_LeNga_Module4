@@ -2,56 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="909fd1bd-e45c-49e1-bba9-50cc9dceb9b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/config/AppInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/config/ApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/controller/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/controller/ProvinceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/formatter/ProvinceFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/model/Province.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/repository/CustomerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/repository/ProvinceRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/service/CustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/service/CustomerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/service/ProvinceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/service/ProvinceServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/customer/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/customer/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/customer/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/customer/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/province/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/province/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/province/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/province/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/config/AppInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/config/ApplicationConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/controller/CustomerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/controller/ProvinceController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/formatter/ProvinceFormatter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/model/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/model/Province.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/repository/CustomerRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/repository/ProvinceRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/service/CustomerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/service/CustomerServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/service/ProvinceService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/service/ProvinceServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/quan_ly_khach_hang_quan_ly_tinh-1.0-SNAPSHOT.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../bai_6_jpa/bai_tap/ung_dung_blog/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_6_jpa/bai_tap/ung_dung_blog/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../bai_6_jpa/bai_tap/ung_dung_blog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_6_jpa/bai_tap/ung_dung_blog/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../bai_6_jpa/thuc_hanh/customer_manager/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_6_jpa/thuc_hanh/customer_manager/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_6_jpa/thuc_hanh/customer_manager/src/main/java/codegym/repository/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_6_jpa/thuc_hanh/customer_manager/src/main/java/codegym/repository/CustomerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codegym/config/ApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codegym/config/ApplicationConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codegym/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codegym/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codegym/controller/ProvinceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codegym/controller/ProvinceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codegym/repository/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codegym/repository/CustomerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codegym/repository/ProvinceRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codegym/repository/ProvinceRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codegym/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codegym/service/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codegym/service/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codegym/service/CustomerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codegym/service/ProvinceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codegym/service/ProvinceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codegym/service/ProvinceServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codegym/service/ProvinceServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +60,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="ProjectId" id="21dxPQecRJDA6ognQuBs3BiHXul" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -96,6 +88,9 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -107,6 +102,80 @@
       <recent name="D:\A0321I1_LeNga_Module4\bai_7_spring_data_repository\thuc_hanh\quan_ly_khach_hang_quan_ly_tinh\src\main\java\codegym\config" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.21" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.21" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : org.example : quan_ly_khach_hang_quan_ly_tinh-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_quan_ly_khach_hang_quan_ly_tinh" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="65023" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : org.example : quan_ly_khach_hang_quan_ly_tinh-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -117,7 +186,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638284741005</updated>
-      <workItem from="1638284744648" duration="4932000" />
+      <workItem from="1638284744648" duration="14330000" />
     </task>
     <servers />
   </component>
@@ -128,9 +197,97 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#Project_Structure" timestamp="1638455853108">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1638455853108" />
+    <state x="0" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638360826206">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1638360826206" />
     <state x="781" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1638287062815">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="781" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1638287062815" />
+    <state width="1032" height="212" key="GridCell.Tab.0.bottom" timestamp="1638456529669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1032" height="212" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1638456529669" />
+    <state width="1032" height="212" key="GridCell.Tab.0.center" timestamp="1638456529669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1032" height="212" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1638456529669" />
+    <state width="1032" height="212" key="GridCell.Tab.0.left" timestamp="1638456529669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1032" height="212" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1638456529669" />
+    <state width="1032" height="212" key="GridCell.Tab.0.right" timestamp="1638456529669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1032" height="212" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1638456529669" />
+    <state width="1032" height="212" key="GridCell.Tab.1.bottom" timestamp="1638456529522">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1032" height="212" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1638456529522" />
+    <state width="1032" height="212" key="GridCell.Tab.1.center" timestamp="1638456529521">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1032" height="212" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1638456529521" />
+    <state width="1032" height="212" key="GridCell.Tab.1.left" timestamp="1638456529521">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1032" height="212" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1638456529521" />
+    <state width="1032" height="212" key="GridCell.Tab.1.right" timestamp="1638456529521">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1032" height="212" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1638456529521" />
+    <state width="1032" height="212" key="GridCell.Tab.2.bottom" timestamp="1638456529522">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1032" height="212" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1638456529522" />
+    <state width="1032" height="212" key="GridCell.Tab.2.center" timestamp="1638456529522">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1032" height="212" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1638456529522" />
+    <state width="1032" height="212" key="GridCell.Tab.2.left" timestamp="1638456529522">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1032" height="212" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1638456529522" />
+    <state width="1032" height="212" key="GridCell.Tab.2.right" timestamp="1638456529522">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1032" height="212" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1638456529522" />
+    <state width="892" height="409" key="GridCell.Tab.25.bottom" timestamp="1638361742420">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="892" height="409" key="GridCell.Tab.25.bottom/0.0.1366.728@0.0.1366.728" timestamp="1638361742420" />
+    <state width="892" height="409" key="GridCell.Tab.25.center" timestamp="1638361742420">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="892" height="409" key="GridCell.Tab.25.center/0.0.1366.728@0.0.1366.728" timestamp="1638361742420" />
+    <state width="892" height="409" key="GridCell.Tab.25.left" timestamp="1638361742420">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="892" height="409" key="GridCell.Tab.25.left/0.0.1366.728@0.0.1366.728" timestamp="1638361742420" />
+    <state width="892" height="409" key="GridCell.Tab.25.right" timestamp="1638361742420">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="892" height="409" key="GridCell.Tab.25.right/0.0.1366.728@0.0.1366.728" timestamp="1638361742420" />
+    <state width="892" height="409" key="GridCell.Tab.26.bottom" timestamp="1638361743348">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="892" height="409" key="GridCell.Tab.26.bottom/0.0.1366.728@0.0.1366.728" timestamp="1638361743348" />
+    <state width="892" height="409" key="GridCell.Tab.26.center" timestamp="1638361743348">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="892" height="409" key="GridCell.Tab.26.center/0.0.1366.728@0.0.1366.728" timestamp="1638361743348" />
+    <state width="892" height="409" key="GridCell.Tab.26.left" timestamp="1638361743348">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="892" height="409" key="GridCell.Tab.26.left/0.0.1366.728@0.0.1366.728" timestamp="1638361743348" />
+    <state width="892" height="409" key="GridCell.Tab.26.right" timestamp="1638361743348">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="892" height="409" key="GridCell.Tab.26.right/0.0.1366.728@0.0.1366.728" timestamp="1638361743348" />
   </component>
 </project>

@@ -1,9 +1,7 @@
 package codegym.service;
 
 import codegym.model.Province;
-import org.springframework.stereotype.Service;
 
-@Service
 public interface ProvinceService {
     Iterable<Province> findAll();
 
