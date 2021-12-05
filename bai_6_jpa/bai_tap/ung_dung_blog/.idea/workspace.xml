@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea8ae8db-a4e0-4613-8c47-5c60265f3bc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/thuc_hanh/custom_validation/src/main/java/com/codegym/controller/PhoneController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/thuc_hanh/custom_validation/src/main/java/com/codegym/model/PhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/thuc_hanh/custom_validation/src/main/resources/message.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/thuc_hanh/custom_validation/src/main/resources/templates/phoneNumber/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/thuc_hanh/custom_validation/src/main/resources/templates/phoneNumber/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/thuc_hanh/custom_validation/src/main/java/com/codegym/config/AppConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_8_validation/thuc_hanh/custom_validation/src/main/java/com/codegym/controller/PhoneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_8_validation/thuc_hanh/custom_validation/src/main/java/com/codegym/controller/PhoneController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_8_validation/thuc_hanh/custom_validation/src/main/resources/templates/phoneNumber/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_8_validation/thuc_hanh/custom_validation/src/main/resources/templates/phoneNumber/create.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
