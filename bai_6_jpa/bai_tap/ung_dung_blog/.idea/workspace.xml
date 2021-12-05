@@ -2,71 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea8ae8db-a4e0-4613-8c47-5c60265f3bc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/java/com/codegym/BlogApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/java/com/codegym/controller/BlogController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/java/com/codegym/controller/CategoryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/java/com/codegym/model/Blog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/java/com/codegym/model/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/java/com/codegym/repository/BlogRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/java/com/codegym/repository/CategoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/java/com/codegym/service/BlogService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/java/com/codegym/service/BlogServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/java/com/codegym/service/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/java/com/codegym/service/CategoryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/resources/templates/blog/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/resources/templates/blog/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/resources/templates/blog/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/resources/templates/blog/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/resources/templates/blog/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/resources/templates/category/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/resources/templates/category/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/resources/templates/category/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/resources/templates/category/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/resources/templates/category/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/test/java/com/codegym/controller/DemoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/java/com/codegym/SpringBootCustomerManagerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/java/com/codegym/controller/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/java/com/codegym/controller/ProvinceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/java/com/codegym/formatter/ProvinceFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/java/com/codegym/model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/java/com/codegym/model/Province.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/java/com/codegym/repository/CustomerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/java/com/codegym/repository/ProvinceRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/java/com/codegym/service/CustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/java/com/codegym/service/CustomerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/java/com/codegym/service/ProvinceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/java/com/codegym/service/ProvinceServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/resources/templates/customer/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/resources/templates/customer/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/resources/templates/customer/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/resources/templates/customer/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/resources/templates/province/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/resources/templates/province/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/resources/templates/province/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/resources/templates/province/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/thuc_hanh/valitating_form_input/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/thuc_hanh/valitating_form_input/src/main/java/com/codegym/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/thuc_hanh/valitating_form_input/src/main/java/com/codegym/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/thuc_hanh/valitating_form_input/src/main/resources/templates/user/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/thuc_hanh/valitating_form_input/src/main/resources/templates/user/result.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/delete.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../thuc_hanh/customer_manager/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../thuc_hanh/customer_manager/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../thuc_hanh/customer_manager/src/main/java/codegym/repository/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../thuc_hanh/customer_manager/src/main/java/codegym/repository/CustomerRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_quan_ly_tinh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_quan_ly_tinh/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -224,7 +165,7 @@
       <option name="presentableId" value="Default" />
       <updated>1638109884687</updated>
       <workItem from="1638109887700" duration="12608000" />
-      <workItem from="1638284883630" duration="13319000" />
+      <workItem from="1638284883630" duration="13915000" />
     </task>
     <servers />
   </component>
