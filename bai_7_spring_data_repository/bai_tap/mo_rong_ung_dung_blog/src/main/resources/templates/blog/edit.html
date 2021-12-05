@@ -2,15 +2,17 @@
 <html lang="en" xmlns:th="http://www.thymeleaf.org">
 <head>
     <meta charset="UTF-8">
-    <title>Delete blog</title>
+    <title>Edit blog</title>
 </head>
 <body>
-<h1>Delete blog</h1>
-<h2>Are you sure?</h2>
+<h1>Edit blog</h1>
 <p>
     <a href="/blog/list">Blog list</a>
 </p>
-<form th:action="@{/blog/delete}" th:object="${blog}" method="post">
+<!--<th:block th:if="${message}">-->
+<!--    <p th:text="${message}"></p>-->
+<!--</th:block>-->
+<form th:action="@{/blog/edit}" th:object="${blog}" method="post">
     <input th:type="hidden" name="id" th:field="*{id}">
     <table>
         <tr>
@@ -27,7 +29,7 @@
         </tr>
         <tr>
             <td></td>
-            <td><input type="submit" value="Delete blog"></td>
+            <td><input type="submit" value="Update blog"></td>
         </tr>
     </table>
 </form>

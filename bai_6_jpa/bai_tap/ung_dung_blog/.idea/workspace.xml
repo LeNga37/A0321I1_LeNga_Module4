@@ -2,77 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea8ae8db-a4e0-4613-8c47-5c60265f3bc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/config/AppInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/config/ApplicationConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/controller/BlogController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/model/Blog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/repository/BlogRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/repository/BlogRepositoryImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/repository/Repository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/service/BlogService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/service/BlogServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/libs/ung_dung_blog-1.0-SNAPSHOT.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/config/AppInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/config/ApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/controller/BlogController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/model/Blog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/repository/BlogRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/repository/BlogRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/repository/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/service/BlogService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/service/BlogServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/6.8/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/java/com/codegym/BlogApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/java/com/codegym/controller/BlogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/java/com/codegym/controller/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/java/com/codegym/model/Blog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/java/com/codegym/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/java/com/codegym/repository/BlogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/java/com/codegym/repository/CategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/java/com/codegym/service/BlogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/java/com/codegym/service/BlogServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/java/com/codegym/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/java/com/codegym/service/CategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/resources/templates/blog/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/resources/templates/blog/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/resources/templates/blog/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/resources/templates/blog/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/resources/templates/blog/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/resources/templates/category/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/resources/templates/category/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/resources/templates/category/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/resources/templates/category/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/resources/templates/category/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/test/java/com/codegym/controller/DemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/java/com/codegym/SpringBootCustomerManagerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/java/com/codegym/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/java/com/codegym/controller/ProvinceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/java/com/codegym/formatter/ProvinceFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/java/com/codegym/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/java/com/codegym/model/Province.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/java/com/codegym/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/java/com/codegym/repository/ProvinceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/java/com/codegym/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/java/com/codegym/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/java/com/codegym/service/ProvinceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/java/com/codegym/service/ProvinceServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/resources/templates/customer/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/resources/templates/customer/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/resources/templates/customer/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/resources/templates/customer/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/resources/templates/province/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/resources/templates/province/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/resources/templates/province/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/main/resources/templates/province/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_phan_trang_va_tim_kiem/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/build/classes/java/main/codegym/config/ApplicationConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/build/classes/java/main/codegym/config/ApplicationConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/build/classes/java/main/codegym/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/build/classes/java/main/codegym/controller/CustomerController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/build/libs/customers_manager-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/build/libs/customers_manager-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/src/main/java/codegym/config/ApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/src/main/java/codegym/config/ApplicationConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/src/main/java/codegym/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_5_thao_tac_voi_csdl_va_orm/thuc_hanh/customers_manager/src/main/java/codegym/controller/CustomerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../thuc_hanh/customer_manager/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../thuc_hanh/customer_manager/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../thuc_hanh/customer_manager/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../thuc_hanh/customer_manager/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../thuc_hanh/customer_manager/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../thuc_hanh/customer_manager/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../thuc_hanh/customer_manager/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../thuc_hanh/customer_manager/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../thuc_hanh/customer_manager/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../thuc_hanh/customer_manager/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../thuc_hanh/customer_manager/build/libs/customer_manager-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../thuc_hanh/customer_manager/build/libs/customer_manager-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../thuc_hanh/customer_manager/src/main/webapp/views/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../thuc_hanh/customer_manager/src/main/webapp/views/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuc_hanh/customer_manager/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../thuc_hanh/customer_manager/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuc_hanh/customer_manager/src/main/java/codegym/repository/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../thuc_hanh/customer_manager/src/main/java/codegym/repository/CustomerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_quan_ly_tinh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/thuc_hanh/quan_ly_khach_hang_quan_ly_tinh/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +126,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/codegym/config" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -228,7 +223,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638109884687</updated>
-      <workItem from="1638109887700" duration="12490000" />
+      <workItem from="1638109887700" duration="12608000" />
+      <workItem from="1638284883630" duration="13319000" />
     </task>
     <servers />
   </component>
@@ -247,54 +243,54 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="167" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1638199891875" />
-    <state width="1071" height="380" key="GridCell.Tab.0.bottom" timestamp="1638195343419">
+    <state width="616" height="162" key="GridCell.Tab.0.bottom" timestamp="1638202230366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1071" height="380" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1638195343419" />
-    <state width="1071" height="380" key="GridCell.Tab.0.center" timestamp="1638195343419">
+    <state width="616" height="162" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1638202230366" />
+    <state width="616" height="162" key="GridCell.Tab.0.center" timestamp="1638202230366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1071" height="380" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1638195343419" />
-    <state width="1071" height="380" key="GridCell.Tab.0.left" timestamp="1638195343419">
+    <state width="616" height="162" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1638202230366" />
+    <state width="616" height="162" key="GridCell.Tab.0.left" timestamp="1638202230366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1071" height="380" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1638195343419" />
-    <state width="1071" height="380" key="GridCell.Tab.0.right" timestamp="1638195343419">
+    <state width="616" height="162" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1638202230366" />
+    <state width="616" height="162" key="GridCell.Tab.0.right" timestamp="1638202230366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1071" height="380" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1638195343419" />
-    <state width="1071" height="380" key="GridCell.Tab.1.bottom" timestamp="1638195344459">
+    <state width="616" height="162" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1638202230366" />
+    <state width="616" height="162" key="GridCell.Tab.1.bottom" timestamp="1638202230366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1071" height="380" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1638195344459" />
-    <state width="1071" height="380" key="GridCell.Tab.1.center" timestamp="1638195344459">
+    <state width="616" height="162" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1638202230366" />
+    <state width="616" height="162" key="GridCell.Tab.1.center" timestamp="1638202230366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1071" height="380" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1638195344459" />
-    <state width="1071" height="380" key="GridCell.Tab.1.left" timestamp="1638195344459">
+    <state width="616" height="162" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1638202230366" />
+    <state width="616" height="162" key="GridCell.Tab.1.left" timestamp="1638202230366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1071" height="380" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1638195344459" />
-    <state width="1071" height="380" key="GridCell.Tab.1.right" timestamp="1638195344459">
+    <state width="616" height="162" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1638202230366" />
+    <state width="616" height="162" key="GridCell.Tab.1.right" timestamp="1638202230366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1071" height="380" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1638195344459" />
-    <state width="1071" height="380" key="GridCell.Tab.2.bottom" timestamp="1638195348266">
+    <state width="616" height="162" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1638202230366" />
+    <state width="616" height="162" key="GridCell.Tab.2.bottom" timestamp="1638202230366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1071" height="380" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1638195348266" />
-    <state width="1071" height="380" key="GridCell.Tab.2.center" timestamp="1638195348266">
+    <state width="616" height="162" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1638202230366" />
+    <state width="616" height="162" key="GridCell.Tab.2.center" timestamp="1638202230366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1071" height="380" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1638195348266" />
-    <state width="1071" height="380" key="GridCell.Tab.2.left" timestamp="1638195348266">
+    <state width="616" height="162" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1638202230366" />
+    <state width="616" height="162" key="GridCell.Tab.2.left" timestamp="1638202230366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1071" height="380" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1638195348266" />
-    <state width="1071" height="380" key="GridCell.Tab.2.right" timestamp="1638195348266">
+    <state width="616" height="162" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1638202230366" />
+    <state width="616" height="162" key="GridCell.Tab.2.right" timestamp="1638202230366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1071" height="380" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1638195348266" />
+    <state width="616" height="162" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1638202230366" />
     <state width="629" height="272" key="GridCell.Tab.23.bottom" timestamp="1638116345606">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

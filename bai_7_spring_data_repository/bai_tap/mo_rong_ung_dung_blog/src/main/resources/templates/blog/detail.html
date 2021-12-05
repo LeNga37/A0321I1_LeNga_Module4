@@ -2,15 +2,14 @@
 <html lang="en" xmlns:th="http://www.thymeleaf.org">
 <head>
     <meta charset="UTF-8">
-    <title>Delete blog</title>
+    <title>Detail blog</title>
 </head>
 <body>
-<h1>Delete blog</h1>
-<h2>Are you sure?</h2>
+<h1>Detail blog</h1>
 <p>
     <a href="/blog/list">Blog list</a>
 </p>
-<form th:action="@{/blog/delete}" th:object="${blog}" method="post">
+<form th:action="@{/blog/detail}" th:object="${blog}" method="post">
     <input th:type="hidden" name="id" th:field="*{id}">
     <table>
         <tr>
@@ -24,10 +23,6 @@
         <tr>
             <td>Date:</td>
             <td><input type="text" th:field="*{date}"/></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td><input type="submit" value="Delete blog"></td>
         </tr>
     </table>
 </form>
