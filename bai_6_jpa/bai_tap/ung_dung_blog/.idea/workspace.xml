@@ -2,10 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea8ae8db-a4e0-4613-8c47-5c60265f3bc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/thuc_hanh/custom_validation/src/main/java/com/codegym/config/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/bai_tap/validation_form_dang_ky/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/bai_tap/validation_form_dang_ky/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/bai_tap/validation_form_dang_ky/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/bai_tap/validation_form_dang_ky/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/bai_tap/validation_form_dang_ky/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/bai_tap/validation_form_dang_ky/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/bai_tap/validation_form_dang_ky/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/bai_tap/validation_form_dang_ky/src/main/java/com/codegym/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/bai_tap/validation_form_dang_ky/src/main/java/com/codegym/controller/FormController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/bai_tap/validation_form_dang_ky/src/main/java/com/codegym/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/bai_tap/validation_form_dang_ky/src/main/java/com/codegym/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/bai_tap/validation_form_dang_ky/src/main/java/com/codegym/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/bai_tap/validation_form_dang_ky/src/main/java/com/codegym/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/bai_tap/validation_form_dang_ky/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_8_validation/bai_tap/validation_form_dang_ky/src/test/java/com/codegym/model/DemoApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../bai_8_validation/thuc_hanh/custom_validation/src/main/java/com/codegym/controller/PhoneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_8_validation/thuc_hanh/custom_validation/src/main/java/com/codegym/controller/PhoneController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../bai_8_validation/thuc_hanh/custom_validation/src/main/resources/templates/phoneNumber/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_8_validation/thuc_hanh/custom_validation/src/main/resources/templates/phoneNumber/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/resources/templates/blog/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bai_7_spring_data_repository/bai_tap/mo_rong_ung_dung_blog/src/main/resources/templates/blog/edit.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,6 +176,7 @@
       <updated>1638109884687</updated>
       <workItem from="1638109887700" duration="12608000" />
       <workItem from="1638284883630" duration="13915000" />
+      <workItem from="1638788726866" duration="3186000" />
     </task>
     <servers />
   </component>
@@ -181,6 +195,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="167" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1638199891875" />
+    <state x="528" y="105" key="FileChooserDialogImpl" timestamp="1638886023728">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="528" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1638886023728" />
     <state width="616" height="162" key="GridCell.Tab.0.bottom" timestamp="1638202230366">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -261,5 +279,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="629" height="272" key="GridCell.Tab.24.right/0.0.1366.728@0.0.1366.728" timestamp="1638116346654" />
+    <state x="131" y="0" key="new project wizard" timestamp="1638886032179">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1638886032179" />
   </component>
 </project>
