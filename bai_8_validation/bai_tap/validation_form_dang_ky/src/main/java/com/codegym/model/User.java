@@ -15,16 +15,19 @@ public class User {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
 
-    @Size(min=5, max = 45)
+    @Size(min=5, max = 45, message = "{errorName}")
     private String firstName;
 
-    @Size(min=5, max = 45)
+    @Size(min=5, max = 45, message = "{errorName}")
     private String lastName;
 
-    @Pattern(regexp = "^0[0-9]{9}",message = "must start at 0")
+    @Pattern(regexp = "^0[0-9]{9}",message = "{errorPhone}")
     private String phoneNumber;
 
-    @Min(18)
+    @Email (message = "{errorEmail}")
+    private String email;
+
+    @Min(value = 18, message = "{errorEmail}")
     private int age;
 
     public String getPhoneNumber() {
@@ -34,9 +37,6 @@ public class User {
     public void setPhoneNumber(String phoneNumber) {
         this.phoneNumber = phoneNumber;
     }
-
-    @Email
-    private String email;
 
     public User() {
     }

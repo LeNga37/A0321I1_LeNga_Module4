@@ -23,7 +23,7 @@ public class FormController {
     }
 
     @PostMapping("create")
-    public String create(@Validated @ModelAttribute("users") User user, BindingResult bindingResult, Model model){
+    public String create(@Validated @ModelAttribute("user") User user, BindingResult bindingResult, Model model){
         if(bindingResult.hasFieldErrors()){
             return "create";
         }
