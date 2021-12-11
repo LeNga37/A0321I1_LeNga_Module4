@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="909fd1bd-e45c-49e1-bba9-50cc9dceb9b0" name="Default Changelist" comment="" />
+    <list default="true" id="909fd1bd-e45c-49e1-bba9-50cc9dceb9b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../bai_9_AOP_va_exception_handling/thuc_hanh/bo_sung_aspect_log_cho_ung_dung_quan_ly_danh_sach_khach_hang/src/main/java/com/codegym/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_9_AOP_va_exception_handling/thuc_hanh/bo_sung_aspect_log_cho_ung_dung_quan_ly_danh_sach_khach_hang/src/main/java/com/codegym/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_9_AOP_va_exception_handling/thuc_hanh/bo_sung_aspect_log_cho_ung_dung_quan_ly_danh_sach_khach_hang/src/main/java/com/codegym/formatter/ProvinceFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_9_AOP_va_exception_handling/thuc_hanh/bo_sung_aspect_log_cho_ung_dung_quan_ly_danh_sach_khach_hang/src/main/java/com/codegym/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_9_AOP_va_exception_handling/thuc_hanh/bo_sung_aspect_log_cho_ung_dung_quan_ly_danh_sach_khach_hang/src/main/java/com/codegym/model/Province.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_9_AOP_va_exception_handling/thuc_hanh/bo_sung_aspect_log_cho_ung_dung_quan_ly_danh_sach_khach_hang/src/main/java/com/codegym/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_9_AOP_va_exception_handling/thuc_hanh/bo_sung_aspect_log_cho_ung_dung_quan_ly_danh_sach_khach_hang/src/main/java/com/codegym/repository/ProvinceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_9_AOP_va_exception_handling/thuc_hanh/bo_sung_aspect_log_cho_ung_dung_quan_ly_danh_sach_khach_hang/src/main/java/com/codegym/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_9_AOP_va_exception_handling/thuc_hanh/bo_sung_aspect_log_cho_ung_dung_quan_ly_danh_sach_khach_hang/src/main/java/com/codegym/service/ProvinceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_9_AOP_va_exception_handling/thuc_hanh/bo_sung_aspect_log_cho_ung_dung_quan_ly_danh_sach_khach_hang/src/main/java/com/codegym/service/impl/CustomerServiceImplWithSpringData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_9_AOP_va_exception_handling/thuc_hanh/bo_sung_aspect_log_cho_ung_dung_quan_ly_danh_sach_khach_hang/src/main/java/com/codegym/service/impl/ProvinceServiceImplWithSpringData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_9_AOP_va_exception_handling/thuc_hanh/bo_sung_aspect_log_cho_ung_dung_quan_ly_danh_sach_khach_hang/src/main/resources/templates/customers/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai_9_AOP_va_exception_handling/thuc_hanh/bo_sung_aspect_log_cho_ung_dung_quan_ly_danh_sach_khach_hang/src/main/resources/templates/customers/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,8 +32,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -45,7 +61,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/views/customer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -151,6 +167,7 @@
       <option name="presentableId" value="Default" />
       <updated>1638284741005</updated>
       <workItem from="1638284744648" duration="21033000" />
+      <workItem from="1639232802852" duration="2862000" />
     </task>
     <servers />
   </component>
