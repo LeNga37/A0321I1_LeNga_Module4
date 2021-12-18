@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Detail category</title>
+</head>
+<body>
+<h1>Detail category</h1>
+<p>
+    <a href="/category/list">Blog list</a>
+</p>
+<form th:action="@{/category/detail}" th:object="${category}" method="post">
+    <input th:type="hidden" name="id" th:field="*{categoryId}">
+    <table>
+        <tr>
+            <td>Name:</td>
+            <td><input type="text" th:field="*{categoryName}"/></td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>
