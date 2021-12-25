@@ -1,10 +1,5 @@
 package com.codegym.entity;
 
-import  lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
-import org.hibernate.annotations.ColumnDefault;
 import org.hibernate.validator.constraints.Range;
 
 import javax.persistence.*;
