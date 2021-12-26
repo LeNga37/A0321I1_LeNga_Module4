@@ -7,7 +7,7 @@ import java.util.Set;
 public class AttachService {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private String attachServiceId;
+    private int attachServiceId;
     private String attachServiceName;
     private double attachServiceCost;
     private int attachServiceUnit;
@@ -19,11 +19,11 @@ public class AttachService {
     public AttachService() {
     }
 
-    public String getAttachServiceId() {
+    public int getAttachServiceId() {
         return attachServiceId;
     }
 
-    public void setAttachServiceId(String attachServiceId) {
+    public void setAttachServiceId(int attachServiceId) {
         this.attachServiceId = attachServiceId;
     }
 

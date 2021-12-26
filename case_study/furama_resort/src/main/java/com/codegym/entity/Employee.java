@@ -19,7 +19,7 @@ public class Employee {
 //    private int positionId;
 //    private int educationDegreeId;
 //    private int divisionId;
-    private String userName;
+//    private String userName;
 
     @ManyToOne(targetEntity = Position.class)
     @JoinColumn(name = "positionId", referencedColumnName = "positionId")
@@ -33,8 +33,11 @@ public class Employee {
     @JoinColumn(name = "divisionId",referencedColumnName = "divisionId")
     private Division division;
 
-    @OneToOne
-    @JoinColumn(name = "userName",referencedColumnName = "userName")
+//    @OneToOne(targetEntity = User.class)
+//    private User user;
+
+    @OneToOne(cascade = CascadeType.ALL)
+    @JoinColumn(name = "userName", referencedColumnName = "userName")
     private User user;
 
     @OneToMany(mappedBy = "employee")
@@ -113,14 +116,6 @@ public class Employee {
 
     public void setEmployeeAddress(String employeeAddress) {
         this.employeeAddress = employeeAddress;
-    }
-
-    public String getUserName() {
-        return userName;
-    }
-
-    public void setUserName(String userName) {
-        this.userName = userName;
     }
 
     public Position getPosition() {

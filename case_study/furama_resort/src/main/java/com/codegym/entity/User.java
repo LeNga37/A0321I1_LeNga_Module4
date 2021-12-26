@@ -1,8 +1,7 @@
 package com.codegym.entity;
 
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.OneToOne;
+import javax.persistence.*;
+import java.util.Set;
 
 @Entity
 public class User {
@@ -10,9 +9,19 @@ public class User {
     private String userName;
     private String password;
 
-    @OneToOne(mappedBy = "user")
+    @ManyToMany(fetch = FetchType.EAGER)
+    @JoinTable(
+            name = "user_role",
+            joinColumns = @JoinColumn(name = "userName"),
+            inverseJoinColumns = @JoinColumn(name = "roleId")
+    )
+    private Set<Role> roles;
+
+    @OneToOne(mappedBy = "user",cascade = CascadeType.ALL)
     private Employee employee;
 
+//    @OneToOne (mappedBy = "user")
+//    private Employee employee;
 
     public User() {
     }
@@ -31,5 +40,21 @@ public class User {
 
     public void setPassword(String password) {
         this.password = password;
+    }
+
+    public Set<Role> getRoles() {
+        return roles;
+    }
+
+    public void setRoles(Set<Role> roles) {
+        this.roles = roles;
+    }
+
+    public Employee getEmployee() {
+        return employee;
+    }
+
+    public void setEmployee(Employee employee) {
+        this.employee = employee;
     }
 }
