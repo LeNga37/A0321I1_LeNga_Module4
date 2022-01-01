@@ -8,6 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.web.PageableDefault;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
@@ -36,7 +37,8 @@ public class CustomerController {
 //    }
 
     @GetMapping("/customer/list")
-    public String showListCustomer(Model model, @PageableDefault(size = 2)Pageable pageable, Optional<String> key_search){
+    public String showListCustomer(Model model, @PageableDefault(size = 2)Pageable pageable,
+                                   Optional<String> key_search){
         if(key_search.isPresent()){
             model.addAttribute("customers",customerService.findAllByCustomerNameContaining(key_search.get(),pageable));
         }else {
@@ -92,4 +94,7 @@ public class CustomerController {
         return "customer/detail";
     }
 
+//    @ResponseBody
+//    @GetMapping("customer/searchByName")
+//    public ResponseEntity<List<Customer>> searchByCustomerName(@RequestParam(name = ""))
 }

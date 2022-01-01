@@ -8,7 +8,8 @@
 </head>
 <body>
 <div class="container-fluid">
-    <form action="/furama/customer/list" method="post">
+    <!--    <form action="/furama/customer/list" method="post">-->
+    <form>
         <div class="form-group" style="margin-top: 30px">
             <input type="hidden" name="action" value="search">
             <input type="text" class="form-control" id="name" placeholder="Enter name" name="key_search">
@@ -55,9 +56,9 @@
                              style="width: 30px;height: 30px" class="rounded" alt="...">
                     </button>
 
-<!--                    <a th:href="@{/furama/customer/detail/__${customer.customerId}__ }"><img-->
-<!--                            src="https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/512x512/document_view.png"-->
-<!--                            style="width: 30px;height: 30px" class="rounded" alt="..."></a>-->
+                    <!--                    <a th:href="@{/furama/customer/detail/__${customer.customerId}__ }"><img-->
+                    <!--                            src="https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/512x512/document_view.png"-->
+                    <!--                            style="width: 30px;height: 30px" class="rounded" alt="..."></a>-->
 
                     <input type="hidden" th:value="${customer.customerId}">
 
@@ -117,12 +118,11 @@
 <script>
     $(document).ready(function () {
         $(".btnModalView").click(function () {
-            console.log($(this).next().val())
             $.ajax({
                 type: "GET",
-                url: "/furama/customer/detail/"+$(this).next().val(),
+                url: "/furama/customer/detail/" + $(this).next().val(),
                 dataType: "HTML",
-                success:function (data) {
+                success: function (data) {
                     $(".modal-body").html(data);
                     $("#modelId").modal("show")
                 }
