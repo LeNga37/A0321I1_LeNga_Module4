@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit Customer</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+<h3>Detail Customer</h3>
+<div id="detail">
+    <div class="cusdetail">
+        <label>Id: </label>
+        <label th:text="${customer.customerId}"></label>
+    </div>
+    <div class="cusdetail">
+        <label>Name: </label>
+        <label th:text="${customer.customerName}"></label>
+    </div>
+    <div class="cusdetail">
+        <label>BirthDay: </label>
+        <label th:text="${customer.customerBirthday}"></label>
+    </div>
+    <div class="cusdetail">
+        <label>Gender: </label>
+        <label th:text="${customer.customerGender}"></label>
+    </div>
+    <div class="cusdetail">
+        <label>Id Card: </label>
+        <label th:text="${customer.customerIdCard}"></label>
+    </div>
+    <div class="cusdetail">
+        <label>Phone: </label>
+        <label th:text="${customer.customerPhone}"></label>
+    </div>
+    <div class="cusdetail">
+        <label>Email: </label>
+        <label th:text="${customer.customerEmail}"></label>
+    </div>
+    <div class="cusdetail">
+        <label>Customer Type: </label>
+        <label th:text="${customer.customerType.customerTypeName}"></label>
+    </div>
+    <div class="cusdetail">
+        <label>Address: </label>
+        <label th:text="${customer.customerAddress}"></label>
+    </div>
+</div>
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+</body>
+</html>

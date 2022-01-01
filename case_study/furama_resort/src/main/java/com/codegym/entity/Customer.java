@@ -10,8 +10,11 @@ public class Customer {
     private int customerId;
 //    private int customerTypeId;
     private String customerName;
+//    @Column(name = "birthday")
     private String customerBirthday;
-    private int customerGender;
+//    @Column(name = "gender")
+    private String customerGender;
+//    @Column(name = "card")
     private String customerIdCard;
     private String customerPhone;
     private String customerEmail;
@@ -59,11 +62,11 @@ public class Customer {
         this.customerBirthday = customerBirthday;
     }
 
-    public int getCustomerGender() {
+    public String getCustomerGender() {
         return customerGender;
     }
 
-    public void setCustomerGender(int customerGender) {
+    public void setCustomerGender(String customerGender) {
         this.customerGender = customerGender;
     }
 
