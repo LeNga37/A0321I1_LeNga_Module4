@@ -1,27 +1,41 @@
 package com.codegym.entity;
 
 import javax.persistence.*;
+import javax.validation.constraints.Email;
+import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.Pattern;
 import java.util.Set;
 
 @Entity
 public class Customer {
     @Id
-    @GeneratedValue (strategy = GenerationType.IDENTITY)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int customerId;
-//    private int customerTypeId;
+
+    @NotBlank(message = "{errorEmpty}")
     private String customerName;
-//    @Column(name = "birthday")
+
+    @NotBlank(message = "{errorEmpty}")
     private String customerBirthday;
-//    @Column(name = "gender")
+
     private String customerGender;
-//    @Column(name = "card")
+
+    @NotBlank(message = "{errorEmpty}")
     private String customerIdCard;
+
+    @NotBlank(message = "{errorEmpty}")
+    @Pattern(regexp = "^((0|\\+84){1})+([90|91]{2})+(\\d{7})$",message = "{errorPhone}")
     private String customerPhone;
+
+    @NotBlank(message = "{errorEmpty}")
+    @Email(message = "{errorEmail}")
     private String customerEmail;
+
+    @NotBlank(message = "{errorEmpty}")
     private String customerAddress;
 
     @ManyToOne(targetEntity = CustomerType.class)
-    @JoinColumn(name = "customerTypeId",referencedColumnName = "customerTypeId")
+    @JoinColumn(name = "customerTypeId", referencedColumnName = "customerTypeId")
     private CustomerType customerType;
 
     @OneToMany(mappedBy = "customer")

@@ -11,6 +11,8 @@ import org.springframework.data.web.PageableDefault;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.validation.BindingResult;
+import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -54,9 +56,13 @@ public class CustomerController {
     }
 
     @PostMapping("/customer/create")
-    public String createCustomer(@ModelAttribute("customer") Customer customer,Model model){
-        customerService.save(customer);
-        return "redirect:list";
+    public String createCustomer(@Validated @ModelAttribute("customer") Customer customer, BindingResult bindingResult, Model model){
+        if(bindingResult.hasFieldErrors()){
+            return "customer/create";
+        }else {
+            customerService.save(customer);
+            return "redirect:list";
+        }
     }
 
     @GetMapping("customer/edit/{customerId}")
