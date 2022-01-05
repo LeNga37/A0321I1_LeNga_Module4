@@ -89,7 +89,7 @@ public class CustomerController {
     public String deleteCustomer(@ModelAttribute("customer") Customer customer,Pageable pageable, Model model){
         customerService.deleteCustomerById(customer.getCustomerId());
         Page<Customer> customerPage = customerService.findAll(pageable);
-        model.addAttribute("customer",customerPage);
+        model.addAttribute("customers",customerPage);
         return "customer/searchTable";
     }
 

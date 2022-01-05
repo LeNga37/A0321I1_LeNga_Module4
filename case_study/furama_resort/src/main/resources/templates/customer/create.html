@@ -33,7 +33,7 @@
 
         <div class="form-group">
             <label for="idCard">Id card</label>
-            <input type="number" class="form-control" id="idCard" th:field="*{customerIdCard}">
+            <input type="text" class="form-control" id="idCard" th:field="*{customerIdCard}">
             <span th:if="${#fields.hasErrors('customerIdCard')}" th:errors="*{customerIdCard}">customerIdCard Error</span>
         </div>
 
