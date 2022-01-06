@@ -73,9 +73,13 @@ public class CustomerController {
     }
 
     @PostMapping("customer/edit")
-    public String updateCustomer(@ModelAttribute Customer customer){
-        customerService.save(customer);
-        return "redirect:list";
+    public String updateCustomer(@Validated @ModelAttribute Customer customer,BindingResult bindingResult){
+        if(bindingResult.hasFieldErrors()){
+            return "customer/edit";
+        } else {
+            customerService.save(customer);
+            return "redirect:list";
+        }
     }
 
     @GetMapping("customer/delete/{customerId}")

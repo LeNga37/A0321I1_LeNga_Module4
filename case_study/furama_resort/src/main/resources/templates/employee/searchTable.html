@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+            integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+            crossorigin="anonymous"></script>
+</head>
+<body>
+<div class="container-fluid" id="searchTable">
+    <!--    <form action="/furama/customer/list" method="post">-->
+    <!--        <div class="form-group" style="margin-top: 30px">-->
+    <!--            <input type="hidden" name="action" value="search">-->
+    <!--            <input type="text" class="form-control" id="name" placeholder="Enter name" name="searchName">-->
+    <!--        </div>-->
+    <!--        <button type="submit" class="btn btn-primary">Search By Name</button>-->
+    <!--    </form>-->
+    <table id="employee" class="table table-striped">
+        <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Birthday</th>
+            <th scope="col">IdCard</th>
+            <th scope="col">Salary</th>
+            <th scope="col">Phone</th>
+            <th scope="col">Email</th>
+            <th scope="col">Address</th>
+            <!--            <th scope="col">Position</th>-->
+            <!--            <th scope="col">Education</th>-->
+            <!--            <th scope="col">Division</th>-->
+            <th scope="col">UserName</th>
+            <th scope="col">Action</th>
+        </tr>
+        </thead>
+        <tbody>
+        <th:block th:each="employee : ${employees}" id="result">
+            <tr>
+                <td th:text="${employee.employeeId}"></td>
+                <td th:text="${employee.employeeName}"></td>
+                <td th:text="${employee.employeeBirthDay}"></td>
+                <td th:text="${employee.employeeIdCard}"></td>
+                <td th:text="${employee.employeeSalary}"></td>
+                <td th:text="${employee.employeePhone}"></td>
+                <td th:text="${employee.employeeEmail}"></td>
+                <td th:text="${employee.employeeAddress}"></td>
+                <!--                <td th:text="${employee.position.positionName}"></td>-->
+                <!--                <td th:text="${employee.educationDegree.educationDegreeName}"></td>-->
+                <!--                <td th:text="${employee.division.divisionName}"></td>-->
+                <td th:text="${employee.user}"></td>
+                <td scope="col">
+                    <button class="btn btn-danger btnModalView">View</button>
+                    <input type="hidden" th:value="${employee.employeeId}">
+                    <a class="btn btn-outline-dark"
+                       th:href="@{/furama/employee/edit/__${employee.employeeId}__ }">Edit</a>
+
+                    <button type="button" class="btn btn-dark" id="btnModalDelete"
+                            th:onclick="'javascript:showDelete(\''+ ${employee.employeeId} +'\');'">Delete
+                    </button>
+                </td>
+            </tr>
+        </th:block>
+
+        </tbody>
+    </table>
+    <!--    <a href="/furama/customer/create" class="btn btn-warning">Add new customer</a>-->
+    <!--    <a href="/furama/customer/list" class="btn btn-warning">Back to menu</a>-->
+</div>
+
+<script src="/js/jquery-3.5.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+</body>
+</html>
